@@ -1,5 +1,3 @@
-Here’s a **ready-to-use README.md** you can put directly in your GitHub repo 👇
-
 ---
 
 ```markdown
@@ -167,5 +165,3 @@ This runs backend + PostgreSQL. Frontend can be deployed on **Vercel/Netlify** w
 ## 👨‍💻 Contributors
 
 * **Arnab Sarkar** (Developer)
-
-```
