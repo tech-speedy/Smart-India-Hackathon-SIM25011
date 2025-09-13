@@ -55,7 +55,7 @@ Built with **Node.js + Express + Prisma + PostgreSQL (Backend)** and **React + V
 ## 📂 Project Structure
 
 ```
-
+```
 /backend
 ├── index.js              # Express app entry
 ├── prisma/
