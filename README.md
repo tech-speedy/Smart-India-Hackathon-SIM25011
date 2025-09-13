@@ -1,4 +1,9 @@
-**📚 Smart Attendance & Productivity System**
+Here’s a **ready-to-use README.md** you can put directly in your GitHub repo 👇
+
+---
+
+```markdown
+# 📚 Smart Attendance & Productivity System
 
 A full-stack web application that automates student attendance using QR code scanning, provides real-time tracking for teachers/admins, and suggests personalized activities for students during free periods.  
 
@@ -49,6 +54,8 @@ Built with **Node.js + Express + Prisma + PostgreSQL (Backend)** and **React + V
 
 ## 📂 Project Structure
 
+```
+
 /backend
 ├── index.js              # Express app entry
 ├── prisma/
@@ -72,6 +79,9 @@ Built with **Node.js + Express + Prisma + PostgreSQL (Backend)** and **React + V
 │   └── main.jsx          # React entry
 └── vite.config.js
 
+````
+
+---
 
 ## ⚙️ Setup Instructions
 
@@ -88,7 +98,7 @@ cd backend
 npm install
 ```
 
-* Create a '.env' file:
+* Create a `.env` file:
 
 ```env
 DATABASE_URL="postgresql://user:password@localhost:5432/attendance_db"
@@ -135,16 +145,6 @@ Frontend runs at **[http://localhost:5173](http://localhost:5173)**
 
 ---
 
-## 📊 Screenshots (Preview)
-
-* **Student Dashboard** → class schedule + free time suggestions
-* **Teacher QR Screen** → QR code displayed on projector
-* **Admin Dashboard** → live bar charts + export button
-
-*(Add actual screenshots once app is running!)*
-
----
-
 ## 🐳 Deployment (Optional with Docker)
 
 ```bash
@@ -168,5 +168,4 @@ This runs backend + PostgreSQL. Frontend can be deployed on **Vercel/Netlify** w
 
 * **Arnab Sarkar** (Developer)
 
-👉 Do you want me to also **add example screenshots placeholders** (like wireframes/mock images) inside the README so your repo looks professional even before the UI is complete?
 ```
