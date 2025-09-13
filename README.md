@@ -87,8 +87,8 @@ Built with **Node.js + Express + Prisma + PostgreSQL (Backend)** and **React + V
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/tech-speedy/Smart-India-Hackathon-SIM25011.git
+cd Smart-India-Hackathon-SIM25011
 ````
 
 ### 2. Backend setup
